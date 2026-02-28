@@ -106,7 +106,7 @@ export default function Home() {
         {/* 欢迎区域 */}
         <section className="mb-16 text-center">
           <h1 className="text-4xl sm:text-5xl font-bold tracking-tight mb-4">
-            欢迎来到我的博客
+            欢迎来到我的博客,测试Vercel
           </h1>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             这里记录着我的技术学习、生活感悟和思考。希望我的文章能给你带来一些启发。
